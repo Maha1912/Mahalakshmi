@@ -1,0 +1,17 @@
+127.0.0.1 - - [07/May/2022:18:57:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/May/2022:18:58:24 +0530] "GET /directives/NewFile.html HTTP/1.1" 200 192
+0:0:0:0:0:0:0:1 - - [07/May/2022:18:58:27 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/May/2022:18:58:56 +0530] "GET /directives/NewFile.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/May/2022:18:59:17 +0530] "GET /directives/NewFile.html HTTP/1.1" 200 193
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:00:12 +0530] "GET /directives/NewFile.html HTTP/1.1" 200 193
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:19:01 +0530] "GET /directives/NewFile1.html HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:25:11 +0530] "GET /directives/NewFile2.html HTTP/1.1" 200 199
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:44:19 +0530] "GET /directives/index.jsp HTTP/1.1" 200 302
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:45:56 +0530] "GET /directives/process.jsp?n1=&n2= HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:46:14 +0530] "GET /directives/process.jsp?n1=&n2= HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:46:15 +0530] "GET /directives/process.jsp?n1=&n2= HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:46:15 +0530] "GET /directives/process.jsp?n1=&n2= HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:46:36 +0530] "GET /directives/index.jsp HTTP/1.1" 200 302
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:53:55 +0530] "GET /directives/process.jsp HTTP/1.1" 404 739
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:54:08 +0530] "GET /directives/process.jsp?n1=4&n2=8 HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [07/May/2022:19:54:24 +0530] "GET /directives/process.jsp?n1=10&n2=4 HTTP/1.1" 200 159

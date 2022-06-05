@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-21T20:07:48 IST" name="Default suite" finished-at="2022-05-21T20:08:00 IST" duration-ms="11901">
+    <groups>
+    </groups>
+    <test started-at="2022-05-21T20:07:48 IST" name="Default test" finished-at="2022-05-21T20:08:00 IST" duration-ms="11901">
+      <class name="Automation.facebook">
+        <test-method is-config="true" signature="facebook()[pri:0, instance:Automation.facebook@6fd83fc1]" started-at="2022-05-21T20:07:48 IST" name="facebook" finished-at="2022-05-21T20:07:51 IST" duration-ms="3481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="launch()[pri:0, instance:Automation.facebook@6fd83fc1]" started-at="2022-05-21T20:07:52 IST" name="launch" finished-at="2022-05-21T20:07:55 IST" duration-ms="3738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="login()[pri:0, instance:Automation.facebook@6fd83fc1]" started-at="2022-05-21T20:07:55 IST" name="login" finished-at="2022-05-21T20:07:56 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Automation.facebook@6fd83fc1]" started-at="2022-05-21T20:07:56 IST" name="close" finished-at="2022-05-21T20:08:00 IST" duration-ms="4230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Automation.facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

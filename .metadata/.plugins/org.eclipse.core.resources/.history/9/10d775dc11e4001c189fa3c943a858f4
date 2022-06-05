@@ -1,0 +1,16 @@
+package testlayer;
+import org.testng.annotations.Test;
+import org.openqa.selenium.support.PageFactory;
+import basepage.Base_Page;
+import pages.Flipkart_Login;
+public class flipkart_loginTest extends base_page {
+	@Test
+	public void init() throws Exception {
+	flipkart_login loginpage =PageFactory.initElements(driver,flipkart_login.class);
+	loginpage.setEmail("abc@gmail.com");
+	loginpage.setPassword("abcdef");
+	loginpage.clickLoginButton();
+	}
+	}
+	
+	 
